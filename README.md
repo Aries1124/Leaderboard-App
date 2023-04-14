@@ -5,6 +5,8 @@ Queries are made to the Leauge of Legends API to rank users based on Player Leve
 
 API Key needs to be generated daily to access RIOT API. 
 
+Massive thanks to all those who helped me along the way, especially Howard. 
+
 This project is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games
 or anyone officially involved in producing or managing Riot Games properties. Riot Games and all
 associated properties are trademarks or registered trademarks of Riot Games, Inc.
