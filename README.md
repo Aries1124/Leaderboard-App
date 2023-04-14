@@ -9,4 +9,5 @@ This project is not endorsed by Riot Games and does not reflect the views or opi
 or anyone officially involved in producing or managing Riot Games properties. Riot Games and all
 associated properties are trademarks or registered trademarks of Riot Games, Inc.
 
-![projPic](https://user-images.githubusercontent.com/29319134/231418793-e1e5acca-3938-4e6a-b9f4-26eda10177c6.jpg)
+![image](https://user-images.githubusercontent.com/29319134/231990491-fdc001c3-ba47-4315-90b2-53e74aaad3b7.png)
+
