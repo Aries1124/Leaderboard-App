@@ -46,7 +46,6 @@ function Leaderboard () {
     }
    
     let ind = playerList.findIndex( (obj)=> (isRankHigher(summonerInfo, obj)) )
-    console.log("POGGERS\n\n")
     console.log(summoner.name)
     if(ind==-1)
       list.push(summonerInfo)
