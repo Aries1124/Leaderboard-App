@@ -1,7 +1,7 @@
 # Leaderboard-App
 An Interactive Leaderboard made with React frontend, and Node/Express backend. 
 
-Queries are made to the Leauge of Legends API to rank users based on Player Level. 
+Queries are made to the Leauge of Legends API to rank users based on Player LP and elo. 
 
 API Key needs to be generated daily to access RIOT API. 
 
